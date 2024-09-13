@@ -6,8 +6,8 @@ A list of relevant jupyter notebooks and how they relate to the rest of the anal
 
 ![analysis map](https://github.com/lnblum/nifH_microbial_drivers/blob/master/analysis_map_3_15.png)
 # Tara-gene-finding
-=======
-Jupyter notebooks
+
+Jupyter notebooks:
 
 Gene-finder pipeline: 
 Reference alignments used for this portion of the analysis are found in the gene_alignments folder, organized by gene. Alignments produced from the iterative search technique are also present.
